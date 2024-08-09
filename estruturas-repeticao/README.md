@@ -4,8 +4,7 @@ Aqui você pode ver como funcionam as estruturas de repetição em Java.
 
 ## Arquivos e Conteúdos
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `ExemploFor.java`: estrutura for
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
