@@ -5,6 +5,7 @@ Aqui você pode ver como funcionam as estruturas condicionais em Java.
 ## Arquivos e conteúdos
 
 - `CaixaEletronico.java`: condicional simples - if
+- `ResultadoEscolar.java`: condicional composta - if/else
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
