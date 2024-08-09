@@ -9,9 +9,10 @@ public class AboutMe {
      * 
      * - java.lang.NullPointerException: variável nula
      * - java.lang.ArithmeticException: valor dividido por zero
+     * - java.lang.NumberFormatException: tipo do input não é um tipo numérico
      * - java.sql.SQLException: erro de interação com o banco de dados
      * - java.io.FileNotFOundException: erro de arquivo não encontrado
-     * - java.util.InputMismatchException: tipos incompatíveis
+     * - java.util.InputMismatchException: tipo do input incompatível
      * 
      * Tratação de erro com try / catch / finally:
      * - try: executa o bloco de código que pode resultar em algum erro
