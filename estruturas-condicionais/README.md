@@ -9,6 +9,8 @@ Aqui você pode ver como funcionam as estruturas condicionais em Java.
 - `CaixaEletronicoComposto.java`: condicional composta - if/else
 - `ResultadoEscolarEncadeado.java`: condicional encadeada - if/else if/else
 - `ResultadoEscolarTernario.java`: condicional ternária
+- `SistemaMedida.java`: switch case
+- `PlanoOperadora.java`: switch case sem break
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
