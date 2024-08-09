@@ -5,7 +5,8 @@ Aqui você pode ver como funcionam as estruturas de repetição em Java.
 ## Arquivos e Conteúdos
 
 - `ExemploFor.java`: estrutura for
-- `ExemploFoArrayr.java`: estrutura for em um array
+- `ExemploFoArray.java`: estrutura for em um array
+- `ExemploFoAbreviado.java`: estrutura for de forma abreviada
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
