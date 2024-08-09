@@ -5,6 +5,9 @@ Elas são responsáveis por tratar um erro na execução.
 
 ## Arquivos e Conteúdos
 - `AboutMe.java`: estrutura simples do try / catch
+- `ExcemploExcecao.java`: exemplo de como uma exceção pode acontecer
+- `CepInvalidoException.java`: exemplo de como uma exceção customizada deve ser feita
+- `FormatadorCepExemplo.java`: exemplo de como uma exceção customizada deve ser usada 
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
