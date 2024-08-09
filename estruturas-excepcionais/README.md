@@ -4,8 +4,7 @@ Aqui você pode ver como funcionam as estruturas excepcionais em Java.
 Elas são responsáveis por tratar um erro na execução.
 
 ## Arquivos e Conteúdos
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `AboutMe.java`: estrutura simples do try / catch
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
