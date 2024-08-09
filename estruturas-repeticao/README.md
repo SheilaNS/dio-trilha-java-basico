@@ -9,6 +9,7 @@ Aqui você pode ver como funcionam as estruturas de repetição em Java.
 - `ExemploFoAbreviado.java`: estrutura for de forma abreviada
 - `ExemploBreakContinue.java`: diferença na execução do break e continue
 - `ExemploWhile.java`: estrutura while
+- `ExemploDoWhile.java`: estrutura do while
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
