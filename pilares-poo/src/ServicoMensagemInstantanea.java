@@ -1,4 +1,15 @@
-public class ServicoMensagemInstantanea {
+/*
+ * ABSTRAÇÃO
+ * A classe pai tem os métodos, mas cabe aos filhos implementarem 
+ * o que eles querem que esses métodos façam.
+ * Esse pilar é representado pela palavra reservada 'abstract'
+ * e seus métodos não tem corpo.
+ */
+
+public abstract class ServicoMensagemInstantanea {
+
+  public abstract void enviarMensagem();
+  public abstract void receberMensagem();
 
   /*
    * HERANÇA
@@ -7,15 +18,6 @@ public class ServicoMensagemInstantanea {
    * todos os métodos públicos de ServicoMensagemInstantanea.
    * Esse pilar ajuda no reaproveitamento de reutilização de métodos/códigos.
    */
-  public void enviarMensagem() {
-    validarConnectadoInternet();
-    System.out.println("Enviando mensagem");
-    salvarHistoricoMensagem();
-  }
-  
-  public void receberMensagem() {
-    System.out.println("Recebendo mensagem");
-  }
 
    /*
     * ENCAPSULAMENTO
