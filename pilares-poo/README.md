@@ -10,7 +10,10 @@ Aqui você vai conhecer seus pilares e como podem ser aplicados em Java.
 
 ## Arquivos e Conteúdos
 - `ComputadorPedrinho.java`: simulando o computador do pedrinho
-- `MSNMessenger.java`: encapsulamento - tornando métodos públicos em privados
+- `ServicoMensagemInstantanea.java`: encapsulamento - transformando métodos públicos em privados
+- `MSNMessenger.java`: herança - herdando métodos comuns da classe pai para a classe filha
+- `FacebookMessenger.java`: herança - herdando métodos comuns da classe pai para a classe filha
+- `Telegram.java`: herança - herdando métodos comuns da classe pai para a classe filha
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
