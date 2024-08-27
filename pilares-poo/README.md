@@ -5,7 +5,7 @@ Aqui você vai conhecer seus pilares e como podem ser aplicados em Java.
 
 - Encapsulamento: nem tudo precisa estar visível, grande parte do nosso algoritmo pode ser distribuído em métodos com finalidades específicas que complementa uma ação em nossa aplicação.
 - Herança: características e comportamentos comuns podem ser elevados e compartilhados através de uma hierarquia de objetos.
-- Abstração: é a insidponibilidade para determinar a lógica de um ou vários comportamentos de um objeto. 
+- Abstração: é a indisponibilidade para determinar a lógica de um ou vários comportamentos de um objeto. 
 - Polimorfismo: são as inúmeras maneiras de se realizar uma mesma ação.
 
 ## Arquivos e Conteúdos
@@ -13,9 +13,15 @@ Aqui você vai conhecer seus pilares e como podem ser aplicados em Java.
 - `ServicoMensagemInstantanea.java`: 
   - abstração - a classe tem o método, mas cabe aos filhos implementarem eles
   - encapsulamento - transformando métodos públicos em privados
-- `MSNMessenger.java`: herança - herdando métodos comuns da classe pai para a classe filha
-- `FacebookMessenger.java`: herança - herdando métodos comuns da classe pai para a classe filha
-- `Telegram.java`: herança - herdando métodos comuns da classe pai para a classe filha
+- `MSNMessenger.java`:
+  - herança - herdando métodos comuns da classe pai para a classe filha
+  - polimorfismo - a mesma função com resultados diferentes
+- `FacebookMessenger.java`:
+  - herança - herdando métodos comuns da classe pai para a classe filha
+  - polimorfismo - a mesma função com resultados diferentes
+- `Telegram.java`:
+  - herança - herdando métodos comuns da classe pai para a classe filha
+  - polimorfismo - a mesma função com resultados diferentes
 
 <!-- Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
