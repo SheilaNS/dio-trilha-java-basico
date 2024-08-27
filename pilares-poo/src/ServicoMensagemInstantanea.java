@@ -10,6 +10,11 @@ public abstract class ServicoMensagemInstantanea {
 
   public abstract void enviarMensagem();
   public abstract void receberMensagem();
+  public abstract void salvarHistoricoMensagem();
+
+  protected void validarConnectadoInternet() {
+    
+  }
 
   /*
    * HERANÇA
@@ -25,7 +30,7 @@ public abstract class ServicoMensagemInstantanea {
     * mais ter acesso a eles. Esses métodos ficam disponíveis apenas
     * dentro da própria classe.
     */
-
+  /*
   private void validarConnectadoInternet() {
     System.out.println("Validando se está conectado");
   }
@@ -33,4 +38,5 @@ public abstract class ServicoMensagemInstantanea {
   private void salvarHistoricoMensagem() {
     System.out.println("Salvando o histórico da mensagem");
   }
+  */
 }
